@@ -18,11 +18,6 @@ Our Application can be broken down into 3 parts
 2. Disease Prediction
 3. Community Chat
 
-## Pages
-
-----
-
-## Flow of our Application
 
 ----
 
